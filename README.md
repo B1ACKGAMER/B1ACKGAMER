@@ -1,16 +1,41 @@
-## Hi there 👋
+Hola! Soy Cristhian Gutiérrez 👋
 
-<!--
-**B1ACKGAMER/B1ACKGAMER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer in Progress | Software Development
 
-Here are some ideas to get you started:
+Desarrollador en formación enfocado en aprender a construir aplicaciones robustas, mantenibles y bien estructuradas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mí
+
+💻 Aprendiendo desarrollo de software mediante proyectos prácticos.
+🧩 Interesado en APIs, lógica de negocio y bases de datos.
+🏗️ Explorando principios de arquitectura de software.
+🤖 Interesado en la automatización y la inteligencia artificial.
+🌱 Fortaleciendo mis conocimientos en Java y Go.
+🛠️ Tecnologías
+
+En desarrollo de habilidades
+
+JavaScript y TypeScript
+React
+Git y GitHub
+En mi ruta de aprendizaje
+
+Java y Go
+SQL y NoSQL
+APIs REST
+Pruebas y arquitectura de software
+📌 Proyectos destacados
+
+tvmaikc.dev-V3
+
+Aplicación web desarrollada con React, TypeScript y Vite.
+
+Ver código fuente
+Ver aplicación
+🎯 Mi objetivo
+
+Desarrollar proyectos que me permitan fortalecer mis habilidades en backend, bases de datos y diseño de software.
+
+🤝 Conectemos
+
+GitHub: https://github.com/B1ACKGAMER
