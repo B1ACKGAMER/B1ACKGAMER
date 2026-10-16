@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Cristhian Gutiérrez
+# ¡Hola! Soy Cristhian Gutiérrez
 
 ### Profesional en Soporte TI | Desarrollador de Software en formación
 
@@ -8,7 +8,7 @@ Combino más de **4 años de experiencia en Soporte TI** con mi crecimiento prof
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy profesional en Soporte TI con experiencia en gestión de incidentes, administración de usuarios, mantenimiento de sistemas y continuidad operativa en entornos corporativos.
 
@@ -16,7 +16,7 @@ A lo largo de mi trayectoria he fortalecido mis habilidades en soporte técnico 
 
 Actualmente estoy enfocado en ampliar mis conocimientos en desarrollo de software, trabajando con tecnologías Front-End y Back-End, bases de datos relacionales y herramientas modernas para la construcción de aplicaciones web.
 
-🎯 **Mi objetivo:** evolucionar hacia el desarrollo Full Stack, aprovechando mi experiencia en infraestructura, soporte y resolución de problemas para construir soluciones tecnológicas eficientes y escalables.
+**Mi objetivo:** evolucionar hacia el desarrollo Full Stack, aprovechando mi experiencia en infraestructura, soporte y resolución de problemas para construir soluciones tecnológicas eficientes y escalables.
 
 ---
 
@@ -83,7 +83,7 @@ Proyecto web desarrollado utilizando tecnologías modernas de Front-End.
 
 ---
 
-## 🌱 Actualmente enfocado en
+## Actualmente enfocado en
 
 - Fortalecer mis fundamentos de programación.
 - Profundizar en desarrollo Back-End y construcción de APIs.
@@ -93,7 +93,7 @@ Proyecto web desarrollado utilizando tecnologías modernas de Front-End.
 
 ---
 
-## 🤝 Conectemos
+##Conectemos
 
 💻 **GitHub:** [@B1ACKGAMER](https://github.com/B1ACKGAMER)
 
